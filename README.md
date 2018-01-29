@@ -15,3 +15,21 @@ The data provided by the organizers must be extracted into a folder 'data'.
 * prepare_data.py - processes data and packages them into numpy arrays
 * model.py - defines and trains the model
 * generate_segs.py - to generate labels for test/validation models post training
+
+## Sample Predictions
+
+### Table
+![Sample](samples/table1.png?raw=true "Title")
+![Sample](samples/table2.png?raw=true "Title")
+
+### Motorbike
+![Sample](samples/bike1.png?raw=true "Title")
+![Sample](samples/bike2.png?raw=true "Title")
+
+### Aeroplane
+![Sample](samples/plane1.png?raw=true "Title")
+![Sample](samples/plane2.png?raw=true "Title")
+
+### Chair
+![Sample](samples/chair1.png?raw=true "Title")
+![Sample](samples/chair2.png?raw=true "Title")
